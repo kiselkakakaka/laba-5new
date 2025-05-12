@@ -1,0 +1,9 @@
+fastapi
+sqlalchemy
+pydantic
+uvicorn
+passlib[bcrypt]
+python-jose
+python-multipart
+bcrypt
+pyjwt
